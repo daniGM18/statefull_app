@@ -43,3 +43,5 @@ RESULTADOS:
 
 
 DATOS ESTUDIANTE:
+
+ -Nombre: Daniel Gutierrez Melendez -Area: Desarrollo de Sofware Multiplataforma -Carrera: ing.en Desarrollo y Gestion de Software -Materia: Aplicaciones Web Progresivas -Matricula:190720 -Maestro: M.T.I. Marco Antonio Ramirez Hernandez -Periodo: Septiembre-Diciembre del 2022
